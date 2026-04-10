@@ -24,14 +24,6 @@ I'm currently focusing my energies on Wheelr, an open-source tool for crypto opt
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=annyoneany-crypto&show_icons=true&theme=tokyonight" alt="annyoneany-crypto stats" />
-</p>
-
----
-
 ## 📫 How to find me
 * **GitHub:** You're already here! Check out my repositories.
 * **Web3 Project:** Visit [wheelr.xyz](https://wheelr.xyz) to see what I'm building.
